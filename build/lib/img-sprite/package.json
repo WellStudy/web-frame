@@ -1,0 +1,12 @@
+{
+  "name": "worf-sprite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "css": "^2.2.1",
+    "imagemin": "^5.2.2",
+    "imagemin-optipng": "^5.2.1",
+    "through2": "^2.0.3"
+  }
+}
